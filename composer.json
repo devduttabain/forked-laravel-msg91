@@ -2,7 +2,7 @@
     "name": "devduttabain/laravel-msg91",
     "description": "Package for MSG91 sms API",
     "require": {
-        "guzzlehttp/guzzle": "^7.x"
+        "guzzlehttp/guzzle": "^7.3.0"
     },
     "keywords": ["laravel-msg91", "msg91 laravel", "msg91 laravel package", "laravel package", "laravel sms package", "sms api", "text api"],
     "license": "MIT",
